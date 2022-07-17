@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm Oleksandr, Software Engineer from Ukraine.
+
 <!--
 **ogvalt/ogvalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
